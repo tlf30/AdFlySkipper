@@ -8,7 +8,6 @@ package io.tlf.adflyskipper;
 import java.util.Base64;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 
 public class AdFlySkipper {
 
